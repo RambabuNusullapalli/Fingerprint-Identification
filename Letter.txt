@@ -1,0 +1,24 @@
+\documentclass{article}
+
+
+\begin{document}
+To\\
+Mr. Ramesh Kumar \\
+Ongole\\
+\vspace{2cm}
+
+My Dear Ramesh Kumar, \\
+\vspace{0.7cm}
+
+Greetings of the day! \\
+Hope you are doing well, there. I am using my spare time for learning to develop, and write manuscripts.
+Hope to meet you soon, after Covid-19 pandemic is over. \\
+Best wishes \\
+
+\vspace{2cm}
+Address:\\
+N Rambabu\\
+Assistant Professor\\
+Dept of ECE\\
+PACE Institute of Technology and Sciences\\
+dr\_rambabu_n@pace.ac.in\\
